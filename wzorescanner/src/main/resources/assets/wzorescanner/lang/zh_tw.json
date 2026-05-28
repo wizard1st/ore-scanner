@@ -1,0 +1,11 @@
+{
+"item.wzorescanner.ore_scanner_base" = "掃描儀零件 (無效果)",
+"item.wzorescanner.coal_ore_scanner" = "礦物掃描儀 (煤炭)",
+"item.wzorescanner.iron_ore_scanner" = "礦物掃描儀 (鐵)",
+"item.wzorescanner.gold_ore_scanner" = "礦物掃描儀 (金)",
+"item.wzorescanner.diamond_ore_scanner" = "礦物掃描儀 (鑽石)",
+"item.wzorescanner.emerald_ore_scanner" = "礦物掃描儀 (綠寶石)",
+"item.wzorescanner.netherite_ore_scanner" = "礦物掃描儀 (古代碎片)",
+"item.wzorescanner.lapis_ore_scanner" = "礦物掃描儀 (青金石)",
+"wzorescanner.ore_scanner_tab" = "Ore Scanner"
+}

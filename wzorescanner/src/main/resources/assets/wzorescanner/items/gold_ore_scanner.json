@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "wzorescanner:item/gold_ore_scanner"
+  }
+}

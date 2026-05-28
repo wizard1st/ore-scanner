@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:emerald_block",
+  "base": "wzorescanner:ore_scanner_base",
+  "addition": "minecraft:redstone",
+  "result": {
+    "id": "wzorescanner:emerald_ore_scanner"
+  }
+}

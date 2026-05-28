@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "wzorescanner",
+	"version": "${version}",
+	"name": "Ore Scanner(Fabric)",
+	"description": "Ore Scanner for easy way to find it.",
+	"authors": [
+		"Wizard1st"
+	],
+	"contact": {
+		"homepage": "https://www.wcastz.com/",
+		"sources": "https://github.com/wizard1st/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/wzorescanner/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.wcastz.Wzorescanner"
+		]
+	},
+	
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": ">=26",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_ingot",
+  "base": "wzorescanner:ore_scanner_base",
+  "addition": "minecraft:redstone",
+  "result": {
+    "id": "wzorescanner:netherite_ore_scanner"
+  }
+}

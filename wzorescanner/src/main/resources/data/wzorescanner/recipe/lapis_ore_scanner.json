@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:lapis_block",
+  "base": "wzorescanner:ore_scanner_base",
+  "addition": "minecraft:redstone",
+  "result": {
+    "id": "wzorescanner:lapis_ore_scanner"
+  }
+}

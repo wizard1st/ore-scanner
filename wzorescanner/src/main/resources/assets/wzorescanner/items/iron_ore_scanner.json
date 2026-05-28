@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "wzorescanner:item/iron_ore_scanner"
+  }
+}

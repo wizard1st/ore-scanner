@@ -1,0 +1,11 @@
+{   
+	"item.wzorescanner.ore_scanner_base" = "Ore Scanner Base (No Effect)",
+	"item.wzorescanner.coal_ore_scanner" = "Ore Scanner (Coal)",
+	"item.wzorescanner.iron_ore_scanner" = "Ore Scanner (Iron)",
+	"item.wzorescanner.gold_ore_scanner" = "Ore Scanner (Gold)",
+	"item.wzorescanner.diamond_ore_scanner" = "Ore Scanner (Diamond)",
+	"item.wzorescanner.emerald_ore_scanner" = "Ore Scanner (Emerald)",
+	"item.wzorescanner.netherite_ore_scanner" = "Ore Scanner (Ancient Debris)",
+	"item.wzorescanner.lapis_ore_scanner" = "Ore Scanner (Lapis Lasuli)",
+	"wzorescanner.ore_scanner_tab" = "Ore Scanner"
+}

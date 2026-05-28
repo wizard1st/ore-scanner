@@ -1,0 +1,11 @@
+{
+"item.wzorescanner.ore_scanner_base" = "矿物扫描仪(空)",
+"item.wzorescanner.coal_ore_scanner" = "矿物扫描仪(煤炭)",
+"item.wzorescanner.iron_ore_scanner" = "矿物扫描仪(铁)",
+"item.wzorescanner.gold_ore_scanner" = "矿物扫描仪(金)",
+"item.wzorescanner.diamond_ore_scanner" = "矿物扫描仪(钻石)",
+"item.wzorescanner.emerald_ore_scanner" = "矿物扫描仪(绿宝石)",
+"item.wzorescanner.netherite_ore_scanner" = "矿物扫描仪(远古残骸)",
+"item.wzorescanner.lapis_ore_scanner" = "矿物扫描仪(青金石)",
+"wzorescanner.ore_scanner_tab" = "Ore Scanner"
+}
