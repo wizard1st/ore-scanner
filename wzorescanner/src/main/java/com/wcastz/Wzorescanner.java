@@ -83,8 +83,7 @@ public class Wzorescanner implements ModInitializer {
 
 	private void initializeItem() {
 		Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, SCANNER_CREATIVE_TAB_KEY, SCANNER_CREATIVE_TAB);
-		// CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.TOOLS_AND_UTILITIES)
-		// 		.register((creativeTab) -> creativeTab.accept(ORE_SCANNER_BASE));
+		
 	}
 
 }
