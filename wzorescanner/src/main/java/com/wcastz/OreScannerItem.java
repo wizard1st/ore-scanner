@@ -29,6 +29,7 @@ public class OreScannerItem extends Item{
     }
     // ระบบสแกนหาแร่แบบ Passive เมื่อถือและกดย่อตัว
 
+    @SuppressWarnings("null")
     @Override
     public void inventoryTick(ItemStack itemStack, ServerLevel level, Entity owner, @Nullable EquipmentSlot slot) {
         if (slot != EquipmentSlot.MAINHAND) return;
